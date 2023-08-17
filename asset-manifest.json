@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kitten-Hall/static/css/main.c33c7322.css",
+    "main.js": "/Kitten-Hall/static/js/main.417e706e.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/Kitten-Hall/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/Kitten-Hall/index.html",
+    "main.c33c7322.css.map": "/Kitten-Hall/static/css/main.c33c7322.css.map",
+    "main.417e706e.js.map": "/Kitten-Hall/static/js/main.417e706e.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/Kitten-Hall/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c33c7322.css",
+    "static/js/main.417e706e.js"
+  ]
+}
